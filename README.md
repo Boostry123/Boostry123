@@ -5,7 +5,9 @@ what I know:  🗣 JavaScript , HTML , CSS , Python , nodejs , NoSql, mongoDB , 
 
 contact me for any collabs here:
 https://www.linkedin.com/in/yanir-laty-a71613202/
+
 or
+
 Gmail : yanir.laty@gmail.com
 
 I'm currently working on the Booking appointment Project ---> 
