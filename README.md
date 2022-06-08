@@ -1,10 +1,11 @@
 ### Hi there im Boostry👋
-Junior Fullstack web developer
+Junior Fullstack web developer 👨‍💻
 
-what I know: JavaScript , HTML , CSS , Python , nodejs , NoSql, mongoDB , EJS, Git
+what I know:  🗣 JavaScript , HTML , CSS , Python , nodejs , NoSql, mongoDB , EJS, Git
 
 contact me for any collabs here:
 https://www.linkedin.com/in/yanir-laty-a71613202/
+
 Gmail : yanir.laty@gmail.com
 
 I'm currently working on the Booking appointment Project ---> 
