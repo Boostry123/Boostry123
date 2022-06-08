@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there im Boostry👋
+Junior Fullstack web developer
 
+what I know: JavaScript , HTML , CSS , Python , nodejs , NoSql, mongoDB , EJS, Git
+
+I'm currently working on the Booking appointment Project 
 <!--
 **Boostry123/Boostry123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
