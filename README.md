@@ -1,5 +1,5 @@
 ### Hi there im Boostry👋
-Junior Fullstack web developer 👨‍💻
+Junior Fullstack web developer based in Israel 👨‍💻
 
 what I know:  🗣 JavaScript , HTML , CSS , Python , nodejs , NoSql, mongoDB , EJS, Git
 
