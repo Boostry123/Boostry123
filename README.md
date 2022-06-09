@@ -4,6 +4,7 @@ Junior Fullstack web developer 👨‍💻
 what I know:  🗣 JavaScript , HTML , CSS , Python , nodejs , NoSql, mongoDB , EJS, Git
 
 contact me for any collabs here:
+
 https://www.linkedin.com/in/yanir-laty-a71613202/
 
 or
