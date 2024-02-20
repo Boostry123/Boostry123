@@ -1,7 +1,7 @@
 ### Hi there im Boostry👋
-Junior Fullstack web developer based in Israel 👨‍💻
+CS student | developer based in Israel 👨‍💻
 
-what I know:  🗣 JavaScript , HTML , CSS , Python , nodejs , NoSql, mongoDB , EJS, Git
+what I know:  🗣 Java, Python, JavaScript , HTML , CSS ,nodejs , NoSql, mongoDB , EJS, Git
 
 contact me for any collabs here:
 
@@ -9,7 +9,7 @@ https://www.linkedin.com/in/yanir-laty-a71613202/
 
 yanir.laty@gmail.com
 
-I'm currently working on the Booking appointment Project ---> 
+I'm currently studing for a CS degree.
 
 ![image](https://user-images.githubusercontent.com/100792995/172630122-a8c18a82-1b00-4c5b-a08e-e73891165f3a.png)
 
