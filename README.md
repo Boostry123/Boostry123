@@ -5,7 +5,7 @@ Main languages I focus on:  🗣 Java, Python,
 
 Also used before: JavaScript , HTML , CSS ,nodejs , NoSql, mongoDB , EJS, Git
 
-contact me for any collabs here:
+contact me here:
 
 https://www.linkedin.com/in/yanir-laty-a71613202/
 
