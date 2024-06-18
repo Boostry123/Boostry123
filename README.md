@@ -1,4 +1,4 @@
-### Hi there im Boostry👋
+### Hi there im Yanir👋
 CS student | developer based in Israel 👨‍💻
 
 Main languages I focus on:  🗣 Java, Python,
