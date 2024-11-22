@@ -1,7 +1,7 @@
 ### Hi there im Yanir👋
 CS student | developer based in Israel 👨‍💻
 
-Main languages I focus on:  🗣 Java, Python,
+Main languages I focus on:  🗣 Java, Python,SQL
 
 Also explored: JavaScript , HTML , CSS ,nodejs , NoSql, mongoDB , EJS, Git
 
