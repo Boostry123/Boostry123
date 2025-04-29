@@ -1,9 +1,9 @@
 ### Hi there im Yanir👋
 CS student | developer based in Israel 👨‍💻
 
-Main languages I focus on:  🗣 Java, Python,SQL
+Main languages I focus on:  🗣 TypeScript ,React, Python
 
-Also explored: JavaScript , HTML , CSS ,nodejs , NoSql, mongoDB , EJS, Git
+Also explored: Java, JavaScript , HTML , CSS ,nodejs , NoSql, mongoDB , EJS, Git
 
 contact me here:
 
@@ -12,6 +12,7 @@ https://www.linkedin.com/in/yanir-laty-a71613202/
 yanir.laty@gmail.com
 
 I'm currently studing for a CS degree.
+and voluntering as a full stack developer at Plannter.io
 here is something cool i made while exploring fullstack.
 
 https://github.com/Boostry123/Book-Appointment
