@@ -12,7 +12,7 @@ https://www.linkedin.com/in/yanir-laty-a71613202/
 yanir.laty@gmail.com
 
 I'm currently studing for a CS degree.
-and voluntering as a full stack developer at Plannter.io
+and working as a full stack developer at Plannter.io
 here is something cool i made while exploring fullstack.
 
 https://github.com/Boostry123/Book-Appointment
