@@ -7,7 +7,7 @@ Also explored: Java, JavaScript , HTML , CSS ,nodejs , NoSql, mongoDB , EJS, Git
 
 contact me here:
 
-https://www.linkedin.com/in/yanir-laty-a71613202/
+https://www.linkedin.com/in/yanir-laty
 
 yanir.laty@gmail.com
 
