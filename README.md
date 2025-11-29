@@ -3,7 +3,7 @@ CS student | developer based in Israel 👨‍💻
 
 Main languages I focus on:  🗣 TypeScript ,React, Python
 
-Also explored: Java, JavaScript , HTML , CSS ,nodejs , NoSql, mongoDB , EJS, Git
+Also explored: Java, JavaScript , HTML , CSS ,nodejs , NoSql, mongoDB ,Postgres, Supabase EJS, Git, postman ...
 
 contact me here:
 
